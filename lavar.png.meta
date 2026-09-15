@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: cb60c515c7a99bd4da331cc5f82e1631
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 417800061985565265
+    second: lavar_0
+  - first:
+      213: 5013259024456462983
+    second: lavar_1
+  - first:
+      213: -3431759292473650893
+    second: lavar_2
+  - first:
+      213: -3325463559365959926
+    second: lavar_3
+  - first:
+      213: -6533467982572642847
+    second: lavar_4
+  - first:
+      213: 7006078219143949896
+    second: lavar_5
+  - first:
+      213: 1371727150193100322
+    second: lavar_6
+  - first:
+      213: -8785684536332056979
+    second: lavar_7
+  - first:
+      213: -7871542143880862049
+    second: lavar_8
+  - first:
+      213: -6627791424555110220
+    second: lavar_9
+  - first:
+      213: -6547348370966856309
+    second: lavar_10
+  - first:
+      213: 7646977139456613085
+    second: lavar_11
+  - first:
+      213: -3523476082581352750
+    second: lavar_12
+  - first:
+      213: 3522466323568166855
+    second: lavar_13
+  - first:
+      213: 137725049599585271
+    second: lavar_14
+  - first:
+      213: 8961221778496818466
+    second: lavar_15
+  - first:
+      213: 6277706915600759871
+    second: lavar_16
+  - first:
+      213: 4854431089868290262
+    second: lavar_17
+  - first:
+      213: 5586128338958741087
+    second: lavar_18
+  - first:
+      213: -8093007244148613283
+    second: lavar_19
+  - first:
+      213: -2637538241618366017
+    second: lavar_20
+  - first:
+      213: 6988071439308198415
+    second: lavar_21
+  - first:
+      213: -4162100470914104902
+    second: lavar_22
+  - first:
+      213: 8871427229178765088
+    second: lavar_23
+  - first:
+      213: -4960481379095578953
+    second: lavar_24
+  - first:
+      213: 7495009038447013144
+    second: lavar_25
+  - first:
+      213: 1761932489790794339
+    second: lavar_26
+  - first:
+      213: 5150228538736187639
+    second: lavar_27
+  - first:
+      213: -6389949398796846751
+    second: lavar_28
+  - first:
+      213: 7942891922969013384
+    second: lavar_29
+  - first:
+      213: -1235241637368134970
+    second: lavar_30
+  - first:
+      213: -650212938862999449
+    second: lavar_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lavar_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 2153
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a29c951f25cc500800000000000000
+      internalID: 417800061985565265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 693
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782bfb7758ca29540800000000000000
+      internalID: 5013259024456462983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 711
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33156711b11ff50d0800000000000000
+      internalID: -3431759292473650893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 705
+        width: 104
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f5c76038499d1d0800000000000000
+      internalID: -3325463559365959926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_4
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 685
+        width: 125
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed9e535c757455a0800000000000000
+      internalID: -6533467982572642847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_5
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 606
+        width: 36
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e2da045079a3160800000000000000
+      internalID: 7006078219143949896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_6
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 712
+        width: 105
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226c40c439a590310800000000000000
+      internalID: 1371727150193100322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_7
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 710
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d660947767af21680800000000000000
+      internalID: -8785684536332056979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_8
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 710
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96e677102aa2c290800000000000000
+      internalID: -7871542143880862049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_9
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 712
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0330e90da5504a0800000000000000
+      internalID: -6627791424555110220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_10
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 703
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8db9cf88552325a0800000000000000
+      internalID: -6547348370966856309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_11
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 695
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda18d261358f1a60800000000000000
+      internalID: 7646977139456613085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_12
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 693
+        width: 101
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de472bcb291a1fc0800000000000000
+      internalID: -3523476082581352750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_13
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 705
+        width: 294
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c78e8d557052e030800000000000000
+      internalID: 3522466323568166855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_14
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 677
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb6e02f33c49e100800000000000000
+      internalID: 137725049599585271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_15
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 679
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d0ccc9ab7ac5c70800000000000000
+      internalID: 8961221778496818466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_16
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 650
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c7564dd25ee1750800000000000000
+      internalID: 6277706915600759871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_17
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 637
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8363a3b576e5340800000000000000
+      internalID: 4854431089868290262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_18
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 630
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ee061b02ae58d40800000000000000
+      internalID: 5586128338958741087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 590
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fdbdf3accdfaf80800000000000000
+      internalID: -8093007244148613283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 596
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb134da81f4956bd0800000000000000
+      internalID: -2637538241618366017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 594
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02940d13fd9af060800000000000000
+      internalID: 6988071439308198415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 588
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1cda76caf3d36c0800000000000000
+      internalID: -4162100470914104902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_23
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 594
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f9de5ef04ad1b70800000000000000
+      internalID: 8871427229178765088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_24
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 586
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6711ca774d82bb0800000000000000
+      internalID: -4960481379095578953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_25
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 592
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81de9fc920f930860800000000000000
+      internalID: 7495009038447013144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_26
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 587
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a233ca344a37810800000000000000
+      internalID: 1761932489790794339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_27
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 586
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f81373a199497740800000000000000
+      internalID: 5150228538736187639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_28
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1693eff80e65257a0800000000000000
+      internalID: -6389949398796846751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_29
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 556
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c23e5ee12da3e60800000000000000
+      internalID: 7942891922969013384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_30
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 533
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c286e0864a8bdee0800000000000000
+      internalID: -1235241637368134970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavar_31
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 546
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76845bee6caf9f6f0800000000000000
+      internalID: -650212938862999449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lavar_0: 417800061985565265
+      lavar_1: 5013259024456462983
+      lavar_10: -6547348370966856309
+      lavar_11: 7646977139456613085
+      lavar_12: -3523476082581352750
+      lavar_13: 3522466323568166855
+      lavar_14: 137725049599585271
+      lavar_15: 8961221778496818466
+      lavar_16: 6277706915600759871
+      lavar_17: 4854431089868290262
+      lavar_18: 5586128338958741087
+      lavar_19: -8093007244148613283
+      lavar_2: -3431759292473650893
+      lavar_20: -2637538241618366017
+      lavar_21: 6988071439308198415
+      lavar_22: -4162100470914104902
+      lavar_23: 8871427229178765088
+      lavar_24: -4960481379095578953
+      lavar_25: 7495009038447013144
+      lavar_26: 1761932489790794339
+      lavar_27: 5150228538736187639
+      lavar_28: -6389949398796846751
+      lavar_29: 7942891922969013384
+      lavar_3: -3325463559365959926
+      lavar_30: -1235241637368134970
+      lavar_31: -650212938862999449
+      lavar_4: -6533467982572642847
+      lavar_5: 7006078219143949896
+      lavar_6: 1371727150193100322
+      lavar_7: -8785684536332056979
+      lavar_8: -7871542143880862049
+      lavar_9: -6627791424555110220
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
